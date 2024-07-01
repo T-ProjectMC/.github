@@ -1,6 +1,6 @@
 # Welcome to T-Project 👋
 
-![T-Project Logo](/path/to/logo.png)
+![T-Project Logo](https://raw.githubusercontent.com/T-ProjectMC/.github/main/%E6%96%B0%E3%83%AD%E3%82%B3%E3%82%99.png)
 
 ## About Us
 
