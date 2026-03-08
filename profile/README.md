@@ -1,7 +1,5 @@
 # T-Project
 
-![T-Project Logo](https://raw.githubusercontent.com/T-ProjectMC/.github/main/%E6%96%B0%E3%83%AD%E3%82%B3%E3%82%99.png)
-
 ## 遊びを本気で作り、本気で届ける。
 
 T-Projectは、Minecraftを中心としたコンテンツを企画・開発・運営するチームです。
